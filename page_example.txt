@@ -1,0 +1,17 @@
+- 1 -
+This is the first page of the document.
+Here is some text.
+With several lines.
+\f
+- 2 -
+This is the second page.
+It also has text.
+And even a word with line-
+break.
+\f
+- 3 -
+And this is the last page
+of our test document.
+It also contains
+several lines of text.
+\f
